@@ -1,3 +1,4 @@
+Random text 
 This is what i changed by Binson TO Fix the conflict
 
 do
