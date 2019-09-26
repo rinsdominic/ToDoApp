@@ -1,1 +1,6 @@
 Random text 
+This is what i changed by Binson TO Fix the conflict
+
+do
+
+'git pull origin master'  --> life saving command
